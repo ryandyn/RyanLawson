@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>
-            Contact
-        </title>
-	</head>	
-	<body>
-        <h1>
-            Contact Info
-        </h1>
-         
-		<p style="color:blue;font-size:20px;border-top-style: dotted;border-bottom-style: dotted"> 
-            
-            You can email me at <a href="mailto:lawson@colum.edu"> lawson@colum.edu </a>
-            <br/>
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+</head>
+<body>
+    <h1>Contact Info</h1>
+    <p style="color: blue; font-size: 20px; border-top-style: dotted; border-bottom-style: dotted">
+        You can email me at <a href="mailto:lawson@colum.edu">lawson@colum.edu</a>.<br>
+        You can text me at <a href="sms:+1234567890">+1 (234) 567-890</a>.
+    </p>
+</body>
+</html>
