@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
 
+/* styles.css */
+p {
+    color: blue;
+    font-size: 20px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
