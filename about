@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>
+            About
+        </title>
+	</head>	
+	<body>
+        <h1>
+            Who Am I?
+        </h1>
+         
+		<p style="color:blue;font-size:20px;border-top-style: dotted;border-bottom-style: dotted"> 
+            
+            I am Ryan Lawson and I am a Sophmore at Columbia College Chicago 
+            <br/>
+            I am a creative writing major
+            <br/>
+            I have a dog name Koby.
+            <br/>
+		
+      
