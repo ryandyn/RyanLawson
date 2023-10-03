@@ -12,7 +12,11 @@
         I am a creative writing major.
         <br>
         I have a dog named Koby.
-    </p>
+  
+     </p>
+
+  <!-- Add an image -->
+    <img src="example.jpg" alt="A sample image">
 </body>
 </html>
 
