@@ -2,9 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Contact</title>
+    <title>Contact Page</title>
 </head>
 <body>
+
+<a href="index-4.html"›Home </a>
+
     <h1>Contact Info</h1>
     <p style="color: blue; font-size: 20px; border-top-style: dotted; border-bottom-style: dotted">
         You can email me at <a href="mailto:lawson@colum.edu">lawson@colum.edu</a>.<br>
