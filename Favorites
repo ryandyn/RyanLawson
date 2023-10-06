@@ -1,1 +1,18 @@
+<! DOCTYPE html>
+ <html>
+    <head>
+<title>Favorites </title>
+    </head>
+   <body bgcolor="#7FB3D5">
+
+  My favorites include 
+
+<a href="index.html" target=" blank" > Go Home </a>
+<a href="about.html" target=" blank" ›About Us </a>
+<a href="contact.html" target=" blank" >Contact Us </a> 
+
+
+
+   </bodv>
+</html>
 
