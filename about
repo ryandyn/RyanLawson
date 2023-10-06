@@ -5,7 +5,13 @@
     <title>About</title>
 </head>
 <body>
-    <h1>Who Am I?</h1>
+
+<a href="index.html" target=" blank" > Go Home </a>
+<a href="about.html" target=" blank" ›About Us </a>
+<a href="contact.html" target=" blank" >Contact Us </a> 
+  
+<h1>Who Am I?</h1>
+
     <p style="color:blue;font-size:20px;border-top-style:dotted;border-bottom-style:dotted;"> 
         I am Ryan Lawson, and I am a sophomore at Columbia College Chicago. 
         <br>
